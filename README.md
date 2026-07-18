@@ -1,4 +1,4 @@
-# welcome to once-ere; 
+# welcome to once-ere
 Ere is an archaic or poetic word that means "before" or "earlier than" a specific point in time.  👋
 
 > [!NOTE]
