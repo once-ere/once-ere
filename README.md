@@ -1,4 +1,5 @@
-# welcome to once-ere; ##Ere## is an archaic or poetic word that means "before" or "earlier than" a specific point in time.  👋
+# welcome to once-ere; 
+Ere is an archaic or poetic word that means "before" or "earlier than" a specific point in time.  👋
 
 > [!NOTE]
 > **Identity Update:** I have recently rebranded my GitHub profile from **43d168f3e** to **once-ere**. All my existing projects and history have been moved here.
